@@ -1,15 +1,14 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.20.0",
-  "displayVersion": "1.20",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.0/Diviia_Reels_Maker_1.20_Setup.exe",
+  "version": "1.20.1",
+  "displayVersion": "1.20.1",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.1/Diviia_Reels_Maker_1.20.1_Setup.exe",
   "notes": [
-    "Video ve ses kesimlerinde dışa aktarma hatası düzeltildi.",
-    "Tam Serbest: iki bağımsız kadraj, kolay taşıma ve boyutlandırma.",
-    "Açılışta ve Ayarlar bölümünde güncelleme kontrolü.",
-    "Groq anahtarı bağlantısı ve kompakt kontroller."
+    "Güncellemeler programın içinden indirilebilir ve kurulabilir.",
+    "İndirme ilerlemesi ve iptal düğmesi eklendi.",
+    "Kurulumdan önce proje kaydedilir ve dosya doğrulanır."
   ],
-  "sha256": "1aeeaedcc95ee2e23b56c1a62b1356626d58a2f17d12d1f1168211d89add23d6",
-  "size": 167526574
+  "sha256": "2a8b282bc86ceb4966d30f8314c2932ccf938a4a7149da62c274574b45897f07",
+  "size": 167580286
 }
