@@ -1,19 +1,30 @@
-# Diviia Reels Maker
+# Diviia Reels Maker güncellemeleri
 
-Resmî güncelleme ve sürüm bilgileri.
+Bu depo Windows x64 kurulum dosyalarını, sürüm notlarını ve kullanım kılavuzlarını barındırır.
 
-## Güncelleme nasıl yapılır?
+## Güncel sürüm: v1.20
 
-Yeni sürümler hazır olduğunda [Releases](https://github.com/leyjonix-art/diviia-reels-maker-updates/releases) bölümünde yayımlanır.
+- [Kurulum dosyasını indir](https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.0/Diviia_Reels_Maker_1.20_Setup.exe)
+- [Kullanım kılavuzu: Türkçe → English → Русский](https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.0/Diviia_Reels_Maker_1.20_Kullanim_Kilavuzu_TR_EN_RU.pdf)
+- [Sürüm notları](https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/tag/v1.20.0)
 
-1. Açık projenizi kaydedin.
-2. Güncelleme kurulum dosyasını indirin.
-3. Diviia Reels Maker’ı kapatıp kurulumu mevcut kurulum konumuna uygulayın.
+### Nasıl güncellenir?
 
-Mevcut lisansların ve kullanıcı verilerinin korunması hedeflenir. Ömür boyu lisans satın alan mevcut kullanıcıların gelecek güncelleme hakları devam eder.
+1. Projeni kaydet ve uygulamayı kapat.
+2. Kurulum dosyasını indir.
+3. Mevcut kurulum konumunu kullanarak Setup'ı çalıştır.
+4. Ayarlar > Güncellemeler bölümünden sürümü kontrol et.
 
-## Şimdiki durum
+v1.10'dan ilk geçiş elle yapılır. v1.20, ileride yayımlanan sürümleri açılışta veya Ayarlar bölümünden kontrol eder ve indirme sayfasını açar. Kurulumu kullanıcı başlatır.
 
-v1.20 geliştirme aşamasındadır. Henüz yeni kurulum dosyası yayımlanmamıştır. v1.10 kullanıcılarına ilk v1.20 güncellemesi ayrıca iletilecektir; uygulama içi güncelleme kontrolü v1.20 ile başlayacaktır.
+Mevcut lisans sistemi ve uygulama kimliği korunur. Bu depo lisans envanteri veya proje kaynak kodu içermez.
 
-Bu depoda yalnızca sürüm bilgileri ve hazır olduğunda dağıtım dosyaları bulunur.
+### English
+
+Save your project, close the app, download Setup and use the existing installation folder. The first update from v1.10 is manual. The PDF has Turkish pages 1–10, English pages 11–20 and Russian pages 21–30.
+
+### Русский
+
+Сохраните проект, закройте программу, скачайте Setup и используйте прежнюю папку установки. Первый переход с v1.10 выполняется вручную. Русская часть PDF: страницы 21–30.
+
+latest.json yalnızca yayımlanmış kurulum dosyasını işaret eder.
