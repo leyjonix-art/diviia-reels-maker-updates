@@ -1,14 +1,20 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.20.1",
-  "displayVersion": "1.20.1",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.1/Diviia_Reels_Maker_1.20.1_Setup.exe",
+  "version": "1.20.2",
+  "displayVersion": "1.20.2",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.2/Diviia_Reels_Maker_1.20.2_Setup.exe",
   "notes": [
-    "Güncellemeler programın içinden indirilebilir ve kurulabilir.",
-    "İndirme ilerlemesi ve iptal düğmesi eklendi.",
-    "Kurulumdan önce proje kaydedilir ve dosya doğrulanır."
+    "Program icon problemi düzeltildi.",
+    "Dosya sürükleme alanları daha anlaşılır hale getirildi.",
+    "Gereksiz kaynak ve uyumluluk yazıları kaldırıldı.",
+    "Lisans ekranına Yapıştır düğmesi eklendi.",
+    "Son güncelleme notları Ayarlar bölümüne eklendi.",
+    "Ekstra performans iyileştirmeleri yapıldı.",
+    "Görünüm şablonlarında mevcut ses ayarları korunuyor.",
+    "Tek pencere ve güvenli kayıt iyileştirmeleri yapıldı.",
+    "Eski önizleme dosyaları otomatik temizleniyor."
   ],
-  "sha256": "2a8b282bc86ceb4966d30f8314c2932ccf938a4a7149da62c274574b45897f07",
-  "size": 167580286
+  "sha256": "946a86d12b0205d4324684d32754ac3346011f7fe5bf060ee584a66012796572",
+  "size": 167880089
 }
