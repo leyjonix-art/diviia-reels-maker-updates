@@ -1,20 +1,21 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.20.2",
-  "displayVersion": "1.20.2",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.20.2/Diviia_Reels_Maker_1.20.2_Setup.exe",
+  "version": "1.30.0",
+  "displayVersion": "1.30",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.0/Diviia_Reels_Maker_1.30_Setup.exe",
   "notes": [
-    "Program icon problemi düzeltildi.",
-    "Dosya sürükleme alanları daha anlaşılır hale getirildi.",
-    "Gereksiz kaynak ve uyumluluk yazıları kaldırıldı.",
-    "Lisans ekranına Yapıştır düğmesi eklendi.",
-    "Son güncelleme notları Ayarlar bölümüne eklendi.",
-    "Ekstra performans iyileştirmeleri yapıldı.",
-    "Görünüm şablonlarında mevcut ses ayarları korunuyor.",
-    "Tek pencere ve güvenli kayıt iyileştirmeleri yapıldı.",
-    "Eski önizleme dosyaları otomatik temizleniyor."
+    "🚀 Destekleriniz ve geri bildirimleriniz sayesinde Diviia Reels Maker’ı geliştirmeye devam ediyorum! Bu güncellemede sizler için yeni özellikler ekledim, bildirdiğiniz sorunları düzelttim ve video hazırlamayı daha kolay hale getirdim. 🎬✨",
+    "Linkten video indirme: YouTube, Kick, Twitch, TikTok, Instagram, X, Facebook ve Vimeo desteği; kalite seçimi ve indirilen videoyu medyaya ekleme.",
+    "Geliştirilmiş altyazılar: Kelime kelime gösterim, 1–10 kelime veya 1–3 cümle seçimi. Vurgu, zamanlama ve hata yönetimi düzeltmeleri; düzenli stil kategorileri ve yeni yazı tipi seçenekleri.",
+    "Kamera çerçeveleri: Şeffaf ve hareketli çerçeve ekleme, sürükleyerek boyutlandırma, kenar boşluklarını giderme ve çerçeveyi konumuyla birlikte kaydedip yeniden kullanma.",
+    "Kadraj ve dışa aktarma: Ayarlanabilir tek kadraj, kadraj ayarlarını kaydetme, kenara hizalama ve kaynak ölçüsünde veya 16:9 çıktı alma.",
+    "Yeni önizleme kontrolleri: Daha belirgin büyütme düğmesi, tam ekranda oynat/durdur kontrolleri ve elle sarılabilen zaman çubuğu.",
+    "Daha rahat zaman çizelgesi: Alt + fare tekerleğiyle satır boyutunu değiştirme; sürükleme, kesme ve silme düzeltmeleri. Uzun kayıtlar ve çok parçalı projelerde performans iyileştirmeleri.",
+    "Görünüm ve ses: Açık/koyu tema düzeltmeleri, yenilenen düğmeler ve uygulama simgesi. Ses göstergesinde yeşil–sarı–kırmızı geçişleri.",
+    "Uygulama içi güncelleme: Kurulum ekranı göstermeden güncelleme ve işlem tamamlandıktan sonra otomatik yeniden açılma.",
+    "Ayarlar ve son çalışmaya dönüş: Daha kompakt ayarlar, öneri e-postası ve Instagram düğmeleri; açılışta ortalanmış, arkası bulanık devam penceresi."
   ],
-  "sha256": "946a86d12b0205d4324684d32754ac3346011f7fe5bf060ee584a66012796572",
-  "size": 167880089
+  "sha256": "2f311f144491e62d7d17aa2fdcd59fdd3972f8dda3597e851830ec2abea1fd6f",
+  "size": 232813342
 }
