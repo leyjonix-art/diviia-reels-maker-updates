@@ -1,17 +1,20 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.1",
-  "displayVersion": "1.30.1",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.1/Diviia_Reels_Maker_1.30.1_Setup.exe",
+  "version": "1.30.2",
+  "displayVersion": "1.30.2",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.2/Diviia_Reels_Maker_1.30.2_Setup.exe",
   "notes": [
     "🚀 Destekleriniz ve geri bildirimleriniz sayesinde Diviia Reels Maker’ı geliştirmeye devam ediyorum! Bu güncellemede video hazırlamayı kolaylaştıran iyileştirmeler ve bildirdiğiniz sorunlara çözümler var. 🎬✨",
-    "Görselli kullanım kılavuzu: Türkçe, İngilizce ve Rusça anlatım, uygulama görselleri ve klavye kısayolları. Ayarlar’dan internet gerekmeden açılabilir.",
-    "MKV ve uzun kayıtlar: Daha net önizleme, daha hızlı hazırlık ve doğru konuma sarma. Farklı video ve ses biçimleri için uyumluluk iyileştirmeleri.",
-    "Daha anlaşılır güncelleme: Programın kapanıp yeniden açılacağını belirten uyarı; kurulum boyunca dönen gösterge, yumuşak kenarlı pencere ve otomatik yeniden açılma.",
-    "Önizleme düzeltmeleri: Paneli yeniden boyutlandırırken filigranın video sınırında kalması, yanlış metin seçiminin önlenmesi ve daha temiz kenarlar.",
-    "Kararlılık ve arayüz: Altyazı hizmeti hata yönetimi, dar ekran yerleşimleri ve proje kurtarma akışı üzerinde düzeltmeler."
+    "Her parçaya ayrı kadraj: Oynatma imlecinin altındaki video otomatik seçilir. Kamera ve oyun alanlarında yaptığın değişiklikler yalnız o parçaya kaydolur; diğer parçaların kadrajı korunur.",
+    "Kadrajı kaydet: Sevdiğin düzeni yeni videolarda kullanmak üzere kaydet. Programı kapatıp açsan da hatırlanır; mevcut parçaların kendi ayarları değişmez.",
+    "Daha esnek yerleşim: Oran kilidini kapatıp skill bar gibi ince alanlar seçebilirsin. Yan yana, alt alta ve yer değiştir seçenekleri mini görsellerle yenilendi.",
+    "Birden fazla zoom alanı: Aynı anda farklı bölgeleri büyüt; her alanın konumunu, boyutunu ve süresini ayrı düzenle. Örtüşen alanlar zaman çizelgesinde ayrı satırlarda görünür.",
+    "Videodan görsel al: Kadraj bölümünden kaynak videonun o anki karesini tam çözünürlükte PNG al. Görseli kaydet veya Logo altında açılan Görsel satırında konumunu ve süresini düzenle.",
+    "Pratik kısayollar: E keser, R geri alır, Q/W seçili video parçasının solunu/sağını imlece kadar kısaltır, D siler. Kısayol listesi uygulamadaki kullanım kılavuzunda.",
+    "Uzun kayıtlarda önizleme: Hazır görüntülerin tekrar kullanılması ve sonraki bölümün önceden hazırlanmasıyla kesme, yeniden uzatma ve oynatma geçişlerindeki beklemeler azaltıldı. Kaynak görüntü kalitesi korunur.",
+    "Daha sade ayarlar: Güncelleme kartı ve kılavuz erişimi düzenlendi. Proje kaydetme/açma, geri alma ve parçalar arasında geçiş kontrolleri iyileştirildi."
   ],
-  "sha256": "429412c7172f11aadbc3ec8636c8ddc4492105dc2a912890a56b38e250debfba",
-  "size": 204666181
+  "sha256": "7eab6cc924bdb00cca22f07f62ab978bef22b8bd21b94c094899fb1a55abcf49",
+  "size": 204721657
 }
