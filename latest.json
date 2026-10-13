@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.3",
-  "displayVersion": "1.30.3",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.3/Diviia_Reels_Maker_1.30.3_Setup.exe",
+  "version": "1.30.4",
+  "displayVersion": "1.30.4",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.4/Diviia_Reels_Maker_1.30.4_Setup.exe",
   "notes": [
     "🚀 Destekleriniz ve geri bildirimleriniz sayesinde Diviia Reels Maker’ı geliştirmeye devam ediyorum! Bu güncellemede video hazırlamayı kolaylaştıran iyileştirmeler ve bildirdiğiniz sorunlara çözümler var. 🎬✨",
-    "Güncelleme düzeltmesi: ‘Kaydet ve kur’ sonrası kurulumun hemen iptal edilmesine neden olan hata giderildi. 1.30.1/1.30.2’den ilk geçiş için programı kapatıp yeni Setup dosyasını açın; sonraki güncellemeler program içinden kurulabilir.",
+    "Daha güvenilir uygulama içi güncelleme: Kurulum ve yeniden başlatma adımları iyileştirildi.",
     "Her parçaya ayrı kadraj: Oynatma imlecinin altındaki video otomatik seçilir. Kamera ve oyun alanlarında yaptığın değişiklikler yalnız o parçaya kaydolur; diğer parçaların kadrajı korunur.",
     "Kadrajı kaydet: Sevdiğin düzeni yeni videolarda kullanmak üzere kaydet. Programı kapatıp açsan da hatırlanır; mevcut parçaların kendi ayarları değişmez.",
     "Daha esnek yerleşim: Oran kilidini kapatıp skill bar gibi ince alanlar seçebilirsin. Yan yana, alt alta ve yer değiştir seçenekleri mini görsellerle yenilendi.",
@@ -16,6 +16,6 @@
     "Uzun kayıtlarda önizleme: Hazır görüntülerin tekrar kullanılması ve sonraki bölümün önceden hazırlanmasıyla kesme, yeniden uzatma ve oynatma geçişlerindeki beklemeler azaltıldı. Kaynak görüntü kalitesi korunur.",
     "Daha sade ayarlar: Güncelleme kartı ve kılavuz erişimi düzenlendi. Proje kaydetme/açma, geri alma ve parçalar arasında geçiş kontrolleri iyileştirildi."
   ],
-  "sha256": "64c9b52a57734752e395e0906d49874011334f1520e65c57b046b6b5c8283492",
-  "size": 204670991
+  "sha256": "5b3bff39aaf4d5c56dae41226998733cc94dff9d1d768b4c516491641d5772db",
+  "size": 204884480
 }
