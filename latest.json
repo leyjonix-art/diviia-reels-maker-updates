@@ -1,13 +1,19 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.5",
-  "displayVersion": "1.30.5",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.5/Diviia_Reels_Maker_1.30.5_Setup.exe",
+  "version": "1.30.6",
+  "displayVersion": "1.30.6",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.6/Diviia_Reels_Maker_1.30.6_Setup.exe",
   "notes": [
     "🚀 Destekleriniz ve geri bildirimleriniz sayesinde Diviia Reels Maker’ı geliştirmeye devam ediyorum! Bu güncellemede video hazırlamayı kolaylaştıran iyileştirmeler ve bildirdiğiniz sorunlara çözümler var. 🎬✨",
-    "Güncelleme ve yeniden başlatma akışı iyileştirildi; kurulum öncesinde kullanılan dosyaların serbest kalması bekleniyor."
+    "Kick klipleri: Yayın kayıtlarının yanında Kick klip bağlantılarını da indirip düzenlemeye ekleyebilirsiniz.",
+    "Daha akıcı düzenleme: Özellikle AV1 ve VP9 videolarda kesme, uzatma ve önizleme geçişlerindeki beklemeler azaltıldı.",
+    "Geliştirilmiş video uyumluluğu: Farklı video ve ses biçimleri için içe aktarma ve oynatma kontrolleri iyileştirildi.",
+    "Daha tutarlı kesme: Kesim sonrasında doğru video parçasının ve bağlı sesinin seçilmesi iyileştirildi.",
+    "Yeni Diviia Launcher: Küçük başlatıcıyla kurulum, kaldığı yerden indirme, dosya onarımı ve güncelleme desteği.",
+    "Daha güvenli güncelleme: Kurulum hazırlığı ve yeniden başlatma akışı iyileştirildi; çalışmalarınız ve ayarlarınız korunur.",
+    "Ortak dil tercihi: Türkçe, İngilizce ve Rusça seçiminiz başlatıcı ile uygulama arasında korunur."
   ],
-  "sha256": "de05676d941dc13af3887dfa5b072934263ab566a370180c8f1d44bfe3120ae1",
-  "size": 204852736
+  "sha256": "2736819f7fceeaae7540df6df91b3c5e06a95d85563ea6bb1512216048a715f7",
+  "size": 204878336
 }
