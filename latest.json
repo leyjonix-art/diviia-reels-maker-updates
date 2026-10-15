@@ -1,19 +1,18 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.6",
-  "displayVersion": "1.30.6",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.6/Diviia_Reels_Maker_1.30.6_Setup.exe",
+  "version": "1.30.7",
+  "displayVersion": "1.30.7",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.7/Diviia_Reels_Maker_1.30.7_Setup.exe",
   "notes": [
-    "🚀 Destekleriniz ve geri bildirimleriniz sayesinde Diviia Reels Maker’ı geliştirmeye devam ediyorum! Bu güncellemede video hazırlamayı kolaylaştıran iyileştirmeler ve bildirdiğiniz sorunlara çözümler var. 🎬✨",
-    "Kick klipleri: Yayın kayıtlarının yanında Kick klip bağlantılarını da indirip düzenlemeye ekleyebilirsiniz.",
-    "Daha akıcı düzenleme: Özellikle AV1 ve VP9 videolarda kesme, uzatma ve önizleme geçişlerindeki beklemeler azaltıldı.",
-    "Geliştirilmiş video uyumluluğu: Farklı video ve ses biçimleri için içe aktarma ve oynatma kontrolleri iyileştirildi.",
-    "Daha tutarlı kesme: Kesim sonrasında doğru video parçasının ve bağlı sesinin seçilmesi iyileştirildi.",
-    "Yeni Diviia Launcher: Küçük başlatıcıyla kurulum, kaldığı yerden indirme, dosya onarımı ve güncelleme desteği.",
-    "Daha güvenli güncelleme: Kurulum hazırlığı ve yeniden başlatma akışı iyileştirildi; çalışmalarınız ve ayarlarınız korunur.",
-    "Ortak dil tercihi: Türkçe, İngilizce ve Rusça seçiminiz başlatıcı ile uygulama arasında korunur."
+    "🚀 Desteğinizle Diviia gelişmeye devam ediyor!",
+    "Beta: Videolarını 60–480 FPS’e akıcılaştır; işlemci veya ekran kartını seç.",
+    "Logo ve çerçevelerini konumlarıyla kaydet; orijinal görsel silinse bile tekrar kullan.",
+    "Logo ve çerçeve seçimi eşleştirildi; üst üste gelen öğeleri düzenlemek kolaylaştı.",
+    "Medya eklerken oluşan siyah önizleme sorunu giderildi.",
+    "Groq anahtarı için Yapıştır eklendi; aktarım bağlantısını kopyalama düzeltildi.",
+    "Lisansı hatırlama, programı doğrudan açma ve güncelleme ekranını kapatma iyileştirildi."
   ],
-  "sha256": "2736819f7fceeaae7540df6df91b3c5e06a95d85563ea6bb1512216048a715f7",
-  "size": 204878336
+  "sha256": "2d93e24cc2798e60f0650e24cb5af6ed2206461655936a4474bf43cf33bc2396",
+  "size": 215960576
 }
