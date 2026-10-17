@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.7",
-  "displayVersion": "1.30.7",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.7/Diviia_Reels_Maker_1.30.7_Setup.exe",
+  "version": "1.30.8",
+  "displayVersion": "1.30.8",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.8/Diviia_Reels_Maker_1.30.8_Setup.exe",
   "notes": [
     "🚀 Desteğinizle Diviia gelişmeye devam ediyor!",
-    "Beta: Videolarını 60–480 FPS’e akıcılaştır; işlemci veya ekran kartını seç.",
-    "Logo ve çerçevelerini konumlarıyla kaydet; orijinal görsel silinse bile tekrar kullan.",
-    "Logo ve çerçeve seçimi eşleştirildi; üst üste gelen öğeleri düzenlemek kolaylaştı.",
-    "Medya eklerken oluşan siyah önizleme sorunu giderildi.",
-    "Groq anahtarı için Yapıştır eklendi; aktarım bağlantısını kopyalama düzeltildi.",
-    "Lisansı hatırlama, programı doğrudan açma ve güncelleme ekranını kapatma iyileştirildi."
+    "Akıcılaştırma motoru yenilendi; hızlı hareketlerde bozulmayı azaltan hareket koruması eklendi.",
+    "Görüntü iyileştirme (Beta): CPU veya GPU ile işle, gerçek önce/sonra görüntülerini karşılaştır.",
+    "Paneller yenilendi; kadraj, logo/çerçeve, ses ve dışa aktarma ayarları daha düzenli, kısayollar görünür.",
+    "Altyazıda otomatik gösterim, rahat büyütme/döndürme ve toplu düzenleme; şarkı çevirisi ve bekleme yönetimi iyileştirildi.",
+    "Dışa aktarmada bellek kullanımı, yüzde ve kalan süre iyileştirildi; kullanım kılavuzu yenilendi.",
+    "Lisansını deneme sırasında veya sonrasında programın içinden etkinleştir; başlatıcıda anahtar girmene gerek yok."
   ],
-  "sha256": "2d93e24cc2798e60f0650e24cb5af6ed2206461655936a4474bf43cf33bc2396",
-  "size": 215960576
+  "sha256": "39365dfb62bc302740b01bd50222f82c77f9ffb62810698ff002c73524d94ebb",
+  "size": 311332352
 }
