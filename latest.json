@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.10",
-  "displayVersion": "1.30.10",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.10/Diviia_Reels_Maker_1.30.10_Setup.exe",
+  "version": "1.30.11",
+  "displayVersion": "1.30.11",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.11/Diviia_Reels_Maker_1.30.11_Setup.exe",
   "notes": [
     "🚀 Desteğinizle Diviia gelişmeye devam ediyor!",
     "Akıcılaştırma motoru yenilendi; hızlı hareketlerde bozulmayı azaltan hareket koruması eklendi.",
@@ -13,6 +13,6 @@
     "Dışa aktarmada bellek kullanımı, yüzde ve kalan süre iyileştirildi; kullanım kılavuzu yenilendi.",
     "Lisansını deneme sırasında veya sonrasında programın içinden etkinleştir; başlatıcıda anahtar girmene gerek yok."
   ],
-  "sha256": "d66d2587d60010a1e18af217af106d0ac23a2de402ee03c063287bde88cd3322",
-  "size": 311491584
+  "sha256": "e58f1f6069e51ebbb02358a0df564ceb48830725c90892ebb2de8c2dd415ebf3",
+  "size": 311307776
 }
